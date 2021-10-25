@@ -1,0 +1,113 @@
+body{
+    text-align: center;
+    font-family: 'Barlow', sans-serif;
+    /* font-family: 'Cairo', sans-serif; */
+    position: relative;
+}
+
+/* home-section */
+.colored-section{
+    background-color: #FFB6B9;
+    color: black;
+}
+
+#tittle{
+    text-align: left;
+}
+
+#tittle .container-fluid{
+    padding: 3% 15% 7%;
+}
+
+.navbar-brand{
+    font-size: 2em;
+    font-weight: bold;
+    font-family: 'Cairo', sans-serif;
+}
+
+.nav-item{
+    padding: 0 19px;
+}
+
+.nav-link{
+    font-size: 1.5em;
+    font-family:  'Barlow', sans-serif;
+}
+
+.big-heading{
+    line-height: 1.5;
+    font-size: 3.5em;
+    /* padding-top: 59px; */
+    padding-top: 15%;
+    padding-bottom: 10px;
+    font-family:  'Barlow', sans-serif;
+    font-weight: bold;
+}
+
+.laptop-img{
+    width: 300px;
+    position: absolute;
+    float: right;
+    top: 29%;
+    left: 550px;
+    border-radius: 20px;
+}
+
+/* about section */
+.colored-section1{
+    background-color: #FAE3D9;
+    text-align: center;
+    padding: 10% 0 12% 0;
+}
+
+.about-text{
+    font-family: 'Barlow', sans-serif;
+    font-size: 2.2em;
+    font-weight: bold;
+}
+
+.co-bussiness{
+    width: 18%;
+    padding-top: 10%;
+}
+
+/* pricing seciton */
+.pricing-section{
+    text-align: center;
+    background-color: #BBDED6;
+    font-family: 'Barlow', sans-serif;
+    line-height: 2;
+    padding: 80px;
+}
+
+.pricing-h{
+    font-size: 2.2em;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+.pricing-p{
+    font-size: 1.5em;
+    padding-bottom: 40px ;
+}
+
+/* contact section */
+.contact-section{
+    text-align: center;
+    background-color: #61C0BF;
+    padding: 80px;
+}
+
+.contact-heading{
+    padding-top: 11%;
+    padding-bottom: 9%;
+    font-family:  'Barlow', sans-serif;
+    font-size: 3.5em;
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+    padding: 30px;
+    
+}
+
